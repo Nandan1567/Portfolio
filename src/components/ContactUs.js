@@ -13,11 +13,11 @@ export default class ContactUs extends Component {
         </div>
         <div className="row">
           <aside className="eigth columns footer-widgets">
-            <div className="widget" style={{paddingLeft: '200px' }}>
+            <div className="widget" >
             
                 Name:<input type="text" style={{width:'500px',height:'20px',border:'solid 2px '}} />
                 Email:<input type="text" style={{width:'500px',height:'20px',border:'solid 2px '}} />
-               <div style={{paddingLeft: '200px'}}><button>Submit</button></div> 
+               <button>Submit</button> 
             </div>
           </aside>
         </div>

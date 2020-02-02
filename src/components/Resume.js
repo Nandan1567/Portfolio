@@ -93,19 +93,21 @@ export default class Resume extends Component {
           </div>
 
         </div>
-        <h3 style={{paddingLeft: '500px' }}>Resume</h3>
+        <div className="resume">
+        <h3>Resume</h3>
         <ul className="social">
           {
             resumeData.resume && resumeData.resume.map(item => {
               return (
                 <li key={item.name}>
-                  <a style={{paddingLeft: '520px',color:'black' ,width:'50px',height:'50px' }} href={item.url} target="_blank"><i className={item.className}></i></a>
+                  <a style={{  color: 'black', width: '50px', height: '50px' }} href={item.url} target="_blank"><i className={item.className}></i></a>
                 </li>
               )
             }
             )
           }
         </ul>
+        </div>
 
       </section>
     );
