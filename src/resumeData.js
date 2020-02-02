@@ -36,7 +36,7 @@ let resumeData = {
   
     "education":[
       {
-        "UniversityName":"Dr Ambedkar of Information Technology Bengaluru",
+        "UniversityName":"Dr Ambedkar of Institute Technology Bengaluru",
         "specialization":"Computer Science",
         "MonthOfPassing":"Aug",
         "YearOfPassing":"2019",
