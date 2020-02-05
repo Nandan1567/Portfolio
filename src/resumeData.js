@@ -29,7 +29,7 @@ let resumeData = {
   "resume": [
     {
       "name": "Resume",
-      "url": "https://drive.google.com/file/d/1q09AQFs4JoAKgO7JRq3FrxmDY_YLY0Jm/view?usp=sharing",
+      "url": "https://drive.google.com/file/d/1Hu2WKtmY7NpqSPdoMFl9uAhMxbOJ4VgO/view?usp=sharing",
       "className": "fa fa-file fa-5x"
     }],
 
@@ -71,6 +71,9 @@ let resumeData = {
     {
       "skillname": "AJAX"
     },
+    {
+      "skillname": "JAVASCRIPT"
+    },
 
     {
       "skillname": "HTML5"
@@ -103,7 +106,7 @@ let resumeData = {
       "name": "project1",
       "description": "To-Do",
       "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTq1-1xUN3Kh_XSd-L3jrH2PB0yj3bddTYO7r7Ey5dc-AD7XJxf",
-      "livedemo": "live demo "
+      
     },
 
     {
@@ -117,13 +120,13 @@ let resumeData = {
       "name": "project3",
       "description": "Cab allocation system",
       "imgurl": "https://images.unsplash.com/photo-1500289483460-00bdb46204f9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=753&q=80"
-      , "livedemo": "live demo "
+      
     },
     {
       "name": "project4",
       "description": "catalog management system",
       "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQElRxr32yQAm71qwTpjv6OJKz8VVRELQ6j2b33ywFOAJudMrYv"
-      ,"livedemo":"live demo "
+      
     }
   ],
   "testimonials": [

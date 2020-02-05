@@ -370,10 +370,20 @@ ul#nav li.current a { color: #F06000; }
    -moz-animation: bootstrap 2s ease;
    -webkit-animation: bootstrap 2s ease;
 }
+.javascript {
+   width: 60%;
+   -moz-animation: javascript 2s ease;
+   -webkit-animation: javascript 2s ease;
+}
 .mysql {
    width: 50%;
    -moz-animation: mysql 2s ease;
    -webkit-animation: mysql 2s ease;
+}
+.javascript {
+   width: 50%;
+   -moz-animation: javascript 2s ease;
+   -webkit-animation: javascript 2s ease;
 }
 .postgresql {
    width: 40%;
@@ -432,6 +442,12 @@ ul#nav li.current a { color: #F06000; }
  @-moz-keyframes bootstrap {
    0%   { width: 0px;  }
    100% { width: 80%;  }
+
+ }
+ @-moz-keyframes javascript {
+   0%   { width: 0px;  }
+   100% { width: 80%;  }
+
  }
  @-moz-keyframes github {
    0%   { width: 0px;  }
